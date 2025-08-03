@@ -3,7 +3,7 @@
 
 ## Author: DHARM PRAKASH
 
-## Session: 15 July 2025 to 15 August 2025
+## Batch: July 2025
 
 ## Domain: Data Science
 
